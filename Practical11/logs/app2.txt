@@ -1,0 +1,2 @@
+INFO ready
+ERROR timeout
